@@ -1,3 +1,6 @@
+// 1.Task: Array Filtering and Mapping
+
+
 const people = [
     { name: 'John', age: 30, gender: 'male' },
     { name: 'Jane', age: 25, gender: 'female' },
