@@ -7,6 +7,8 @@ const people = [
 ];
 
 
-const arrayOfname = people.filter(item => item.gender !== "female").map(item => item.name)
+const arrayOfname = (arr) => {
+    return arr.filter(item => item.gender !== "female").map(item => item.name)
+}
 
-console.log(arrayOfname)
+console.log(arrayOfname(people))
