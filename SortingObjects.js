@@ -1,5 +1,4 @@
 // 4.Task: Sorting Objects
-// Array of car objects
 const cars = [
     {
         make: 'Toyota',
